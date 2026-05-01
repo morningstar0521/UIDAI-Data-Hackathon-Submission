@@ -499,47 +499,9 @@ from sklearn.cluster import KMeans
 
 ## 19. License
 
-The analytical code in `UIDAI_HACKATHON_FINAL_SUBMISSION.ipynb` and the supporting scripts in this repository are released under the **MIT License**.
+Released under the **MIT License** — see the [`LICENSE`](./LICENSE) file for full terms.
 
-> **Note on data:** The Aadhaar datasets under `Dataset/` are UIDAI-provided extracts and remain subject to UIDAI's terms of use. The MIT License below applies to the source code, notebook, and documentation only — **not** to the data files.
-
-```
-MIT License
-
-Copyright (c) 2026 Shubh Ghiya, Drashti Shah, Ekansh Jindal
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
-### Citation
-
-If you use this work, please cite:
-
-```bibtex
-@misc{ghiya2026aadhaar,
-  title        = {Aadhaar Command Center: From Crisis Response to Crisis Prevention},
-  author       = {Ghiya, Shubh and Shah, Drashti and Jindal, Ekansh},
-  year         = {2026},
-  howpublished = {UIDAI Data Hackathon 2026 — Final Submission},
-  note         = {Predictive Governance Intelligence Platform for UIDAI}
-}
-```
+> The Aadhaar datasets under `Dataset/` are UIDAI-provided extracts and remain subject to UIDAI's terms of use. The MIT License covers source code, notebook, and documentation only.
 
 ---
 
